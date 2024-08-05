@@ -1,4 +1,4 @@
-# GradeView
+# MyMark
 A prototype web application that allows students to check their grades by signing up or logging into an existing account.
 ## Features
 - The web application will take the user to a login page where the user can login to their account after entering the details
