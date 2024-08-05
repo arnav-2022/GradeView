@@ -14,9 +14,9 @@ A prototype web application that allows students to check their grades by signin
 - Python
 
 ## Setup
-Use the line of code below to download GradeView:
+Use the line of code below to download Mymark:
 ```
-$ git clone https://github.com/arnav-2022/GradeView.git
+$ git clone https://github.com/arnav-2022/MyMark.git
 ```
 
 Once finished downloading, enter the following lines of code in the terminal
