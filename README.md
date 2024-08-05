@@ -21,5 +21,5 @@ $ git clone https://github.com/arnav-2022/MyMark.git
 
 Once finished downloading, enter the following lines of code in the terminal
 ```sh
-python app.py
+python MyMark.py
 ```
